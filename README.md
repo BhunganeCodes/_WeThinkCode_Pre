@@ -39,7 +39,7 @@ Let’s go week-by-week together 🚀
 ## 🚀 Goals for This Journey
 
 - Deepen my understanding of **software engineering fundamentals**
-- Build real-world projects using **React**, **JavaScript**, and beyond
+- Build real-world projects using **Python**, **React**, **JavaScript**, and beyond
 - Document my journey for accountability and inspiration
 - Become a world-class developer — and help others along the way 🙌
 
