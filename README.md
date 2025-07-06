@@ -32,6 +32,12 @@ Let’s go week-by-week together 🚀
 - 🧠 Developed a preference for using **Git Bash** for commits & pushes.
 - 💡 Integrated **Git Bash into VS Code**, streamlining my workflow to commit changes directly from the IDE.
 
+#### 🦊 GitLab Progress
+
+- 🔐 Learned how to **generate and use SSH keys** for secure GitLab authentication.
+- 🔗 Integrated **VS Code with the GitLab extension**, enabling seamless project management and version control.
+- 🚀 Confidently cloning, pushing, and managing repositories using both **GitHub** and **GitLab** now.
+
 > "It’s not about how fast you learn, it’s about how consistently you show up." – Me, every morning ☕💻
 
 ---
@@ -39,7 +45,7 @@ Let’s go week-by-week together 🚀
 ## 🚀 Goals for This Journey
 
 - Deepen my understanding of **software engineering fundamentals**
-- Build real-world projects using **Python**, **React**, **JavaScript**, and beyond
+- Build real-world projects using **React**, **JavaScript**, and beyond
 - Document my journey for accountability and inspiration
 - Become a world-class developer — and help others along the way 🙌
 
@@ -47,7 +53,8 @@ Let’s go week-by-week together 🚀
 
 ## 📌 Stay Connected
 
-- 🌐 [My GitHub](https://github.com/BhunganeCodes)  
+- 🌐 [My GitLab](https://gitlab.com/BhunganeCodes)  
+- 📝 Dev blog coming soon...  
 - 🧠 Currently building: My coding brain 🧱
 
 ---
